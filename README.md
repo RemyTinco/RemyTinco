@@ -54,5 +54,5 @@ Entrepreneur, developer and investor, I am from Paris and currently CTO & Co-Fou
  
 ## Hello World!! 🤔
 
-* 💬 Ask me about anything an everything.
+* 💬 Ask me about anything and everything.
 * ⚡ Fun fact: Internet users blink less than usual.
