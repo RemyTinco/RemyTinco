@@ -1,6 +1,6 @@
 <h2 align="center"><img src="assets/Hi.gif" width="15px"> Hello! I'm Rémy</h2>
 <p align="center">
-  <a href="work_readme.md">Work README</a>
+  <a href="manager_readme.md">Manager README</a>
 </p>
 
 <p align="center">
