@@ -1,5 +1,7 @@
 <h2 align="center"><img src="assets/Hi.gif" width="15px"> Hello! I'm Rémy</h2>
 <p align="center">
+  <a href="https://www.goodreads.com/user/show/162962793-r-my-tinco">GoodReads</a>
+  •
   <a href="manager_readme.md">Manager README</a>
 </p>
 
