@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/remy-tinco/">LinkedIn</a>
   •
-  <a href="manager_readme.md">Manager README</a>
-  •
   <a href="mailto:tinco.remy@gmail.com">Email</a>
 </p>
 
