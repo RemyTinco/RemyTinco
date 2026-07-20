@@ -11,8 +11,6 @@
   •
   <a href="manager_readme.md">Manager README</a>
   •
-  <a href="https://www.goodreads.com/user/show/162962793-r-my-tinco">Goodreads</a>
-  •
   <a href="mailto:tinco.remy@gmail.com">Email</a>
 </p>
 
@@ -29,5 +27,3 @@ These days, I’m focused on:
 * Backend architecture and data systems
 * High-performing engineering organisations
 * Hands-on prototypes with Python, APIs and agents
-
-Recent project: [Gamole](https://github.com/RemyTinco/gamole), an early POC for automating initiative discovery and kick-off.
